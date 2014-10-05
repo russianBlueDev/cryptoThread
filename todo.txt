@@ -1,0 +1,6 @@
+- #threads, pw_size and salt in arguments
+- optimise outer loop index calculations
+
+User interface for cracking hash, salt and size
+User interface for cracking given password
+User interface for benchmarking
